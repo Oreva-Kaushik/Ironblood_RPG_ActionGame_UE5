@@ -30,7 +30,7 @@ This project was built from scratch over **1.5 months** and includes full gamepl
 ## 📦 Download & Play
 
 ➡️ **Download the packaged build:**
-👉 [Click here to download the ZIP](PASTE_YOUR_ZIP_LINK_HERE)
+👉 [Click here to download the ZIP](https://mega.nz/file/O8Y1jT5Q#2kig3H4pS9qeDqLyhkS_pFpWtStjv-yFFrkO0CFPkNY)
 
 ### ▶️ How to Run the Game
 
