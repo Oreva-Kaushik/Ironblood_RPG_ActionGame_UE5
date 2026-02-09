@@ -37,4 +37,4 @@ This project was built from scratch over **1.5 months** and includes full gamepl
 1. Download the ZIP file  
 2. Extract it anywhere on your PC  
 3. Open the folder  
-4. Run:  
+4. Run .exe file
